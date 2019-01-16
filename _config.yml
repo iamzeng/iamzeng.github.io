@@ -29,7 +29,7 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-#email:             email
+email:             iamzengjian@gmail.com
 #google.plus:        username
 twitter:            iamzeng
 #facebook:           username
@@ -52,7 +52,7 @@ tumblr:             iamzeng
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-behance:           username
+#behance:           username
 
 # Gems
 gems:
